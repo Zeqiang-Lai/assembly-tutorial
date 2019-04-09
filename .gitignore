@@ -1,0 +1,6 @@
+sample_code/*
+!sample_code/*.asm
+!sample_code/*.h
+!sample_code/*.c
+!sample_code/*.inc
+.DS_Store
